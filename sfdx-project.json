@@ -11,6 +11,10 @@
     {
       "path": "./es-space-mgmt",
       "default": false
+    },
+    {
+      "path": "./es-base-code",
+      "default": false
     }
   ],
   "namespace": "",
